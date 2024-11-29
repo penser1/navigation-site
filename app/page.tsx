@@ -61,8 +61,6 @@ const categories = [
       { name: "携程", url: "https://www.ctrip.com" },
       { name: "飞猪", url: "https://www.fliggy.com" },
       { name: "马蜂窝", url: "https://www.mafengwo.cn" },
-      { name: "携程国际", url: "https://www.trip.com" },
-      { name: "去哪儿", url: "https://www.qnear.com" },
     ],
   },
 ];
